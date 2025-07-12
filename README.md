@@ -54,8 +54,12 @@ Apply filter and count
 Sort Discount column within each category
 14. Top 5 products: Rating + Review combo
 Create a score column (Rating × log(Reviews)) and sort
+
 Final Task: Create an Excel Dashboard
+
 Use:
 Pivot Charts
+
 Slicers (by category or rating)
+
 KPIs (Avg rating, total reviews, revenue, etc.)
