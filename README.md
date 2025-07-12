@@ -1,5 +1,6 @@
 # amazon-product-review
 Exploratory Data Analysis on Amazon product reviews, including sales, ratings, discounts, and product insights using  pivot tables and Excel.
+
 STEP-BY-STEP IN EXCEL & PIVOT:
 Step 1: Load and Clean the Data
 Open Excel, import the dataset (CSV/XLSX).
