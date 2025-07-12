@@ -4,15 +4,22 @@ Exploratory Data Analysis on Amazon product reviews, including sales, ratings, d
 STEP-BY-STEP IN EXCEL & PIVOT:
 Step 1: Load and Clean the Data
 Open Excel, import the dataset (CSV/XLSX).
+
 Check for:
 Missing values
+
 Inconsistent data types (e.g., price as text)
+
 Comma-separated lists (e.g., reviews or ratings may need to be parsed)
+
 Create new columns:
 Discount % = (Actual Price - Discounted Price) / Actual Price
+
 Revenue Estimate = Rating Count × Discounted Price (or Actual)
+
 Step 2: Use Pivot Tables to Answer Questions
 Use Excel's PivotTable for each question:
+
 1. Average discount % by category
 Rows: Category
 Values: Avg of Discount %
