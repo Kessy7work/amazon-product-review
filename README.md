@@ -59,5 +59,7 @@ Final Task: Create an Excel Dashboard
 
 Use:
 Pivot Charts
+
 Slicers (by category or rating)
+
 KPIs (Avg rating, total reviews, revenue, etc.)
